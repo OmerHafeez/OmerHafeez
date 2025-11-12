@@ -1,5 +1,5 @@
 # 💫 About Me:
-🧠 About Me:<br>💡 I’m passionate about AI, ML, and building intelligent systems that make data come alive!<br>🚀 I’ve worked on UrduX, a large-scale LLM project focused on multilingual AI.<br>📊 I’ve developed an Energy Demand & Weather Analysis pipeline, later transformed into an interactive Tkinter-based GUI.<br>🛰️ I’ve also built ML models like Pulsar Classification (SVM) and Defect Detection (YOLOv5) — hosted and deployed for real-world testing.<br>💻 I enjoy working across the stack, from OpenCL/C++ GPU programming to Python AI pipelines.<br>🔥 Always exploring new ideas in AI, system optimization, and user-friendly app design!<br>
+🧠 About Me:<br>💡 passionate about AI, ML, and building intelligent systems that make data come alive!<br>🚀 Worked on UrduX, a large-scale LLM project focused on multilingual AI.<br>📊 Developed an Energy Demand & Weather Analysis pipeline, later transformed into an interactive Tkinter-based GUI.<br>🛰️ Built ML models like Pulsar Classification (SVM) and Defect Detection (YOLOv5) — hosted and deployed for real-world testing.<br>💻 Enjoy working across the stack, from OpenCL/C++ GPU programming to Python AI pipelines.<br>🔥 Always exploring new ideas in AI, system optimization, and user-friendly app design!<br>
 
 
 ## 🌐 Socials:
